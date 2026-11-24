@@ -4,6 +4,7 @@
 
 **Estudiante:** Martín Alfredo Boudoire Troncoso \
 **Profesor Guía:** Julio Haberland Arellano \
+**Profesor Colaborador:** Marcelo Toro Miranda
 **Programa:** AFE — Magíster en Manejo de Suelos y Aguas, Universidad de Chile \
 **Horizonte:** 2026 – 2027
 

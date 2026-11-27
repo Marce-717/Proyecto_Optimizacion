@@ -1,5 +1,5 @@
-## Contendios de carpetas propuestas 
-Documentos que deben estar dentro de esta rama: 
+## Contenidos sugeridos para esta carpeta: 
+### Documentos que deben estar dentro de esta rama: 
    ├── __init__.py
 │   ├── io_gis.py                       ← lectura .gpkg → grafo
 │   ├── catalogo.py                     ← catálogo Hoffens PVC

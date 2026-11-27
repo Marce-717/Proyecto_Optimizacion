@@ -1,1 +1,12 @@
-
+## Contendios de carpetas propuestas 
+Documentos que deben estar dentro de esta rama: 
+   ├── __init__.py
+│   ├── io_gis.py                       ← lectura .gpkg → grafo
+│   ├── catalogo.py                     ← catálogo Hoffens PVC
+│   ├── hidraulica.py                   ← Hazen-Williams / Darcy, velocidades
+│   ├── tarifa.py                       ← modelo AT-4.3
+│   ├── energia.py                      ← kWh anuales de bombeo
+│   ├── costos.py                       ← CAPEX, OPEX, VAN
+│   ├── optimizador.py                  ← búsqueda exhaustiva telescópica
+│   ├── epanet_bridge.py                ← EPyT: export .inp y verificación
+│   └── reporte.py                      ← tablas, figuras, HTML
